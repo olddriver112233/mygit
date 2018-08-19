@@ -1,3 +1,4 @@
+# 一个测试形参的函数
 def func1(**dict1):
     print(dict1)
 
